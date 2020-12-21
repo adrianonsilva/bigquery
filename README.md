@@ -112,7 +112,7 @@ Podemos usar várias ferramentas para visualização:
 
 ![Screenshot](/images/b20.jpg)
 
-Esse foi um exemplo de uma consulta e visualização simples usando o BigQuery e Data Studio, análises mais complexas e em grandes volumes de dados podem ser realizados usando a plataforma.
+Esse foi um exemplo de uma consulta e visualização simples usando o BigQuery e Data Studio, análises mais complexas e com grandes volumes de dados podem ser realizadas usando a plataforma.
 
 <a id="link4"></a>
 ## 4. Links
