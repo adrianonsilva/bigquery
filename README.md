@@ -13,7 +13,7 @@ grandes datasets.
 
 Na forma de Platafoma como Serviço (PaaS), toda a infra estrutura é gerenciada pelo Google, retirando do cliente a preocupação com o gerenciado de servidores, backup, atualizações.
 
-<a id="link1"></a>
+<a id="link2"></a>
 ## 2. Utilização
 
 Clientes novos ganham US$ 300 em créditos para gastar no Google Cloud nos primeiros 90 dias. Todos os clientes recebem 10 GB de armazenamento e até 1 TB de consultas/mês, completamente grátis. Após esse período serão aplicadas as cobranças decorrentes da utilização.
@@ -60,6 +60,15 @@ ex: SELECT  FROM `bigquery-296404.pagamento.tb_pag` LIMIT 1000
 
 <a id="link3"></a>
 ## 3. Visualização
+
+Podemos usar várias ferramentas para visualição:
+
+- Looker
+- Data Studio
+- Google Sheets
+- Ferramentas BI
+
+![Screenshot](/images/v01.jpg)
 
 - Vamos executadar uma consulta para analizarnos os valores de pagametos por periodo (ano-mês)
 
