@@ -61,7 +61,7 @@ ex: SELECT  FROM `bigquery-296404.pagamento.tb_pag` LIMIT 1000
 <a id="link3"></a>
 ## 3. Visualização
 
-Podemos usar várias ferramentas para visualição:
+Podemos usar várias ferramentas para visualização:
 
 - Looker
 - Data Studio
@@ -69,6 +69,12 @@ Podemos usar várias ferramentas para visualição:
 - Ferramentas BI
 
 ![Screenshot](/images/v01.jpg)
+
+![Screenshot](/images/v05.jpg)
+
+![Screenshot](/images/v03.jpg)
+
+![Screenshot](/images/v04.jpg)
 
 - Vamos executadar uma consulta para analizarnos os valores de pagametos por periodo (ano-mês)
 
