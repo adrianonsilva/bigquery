@@ -76,7 +76,7 @@ Podemos usar várias ferramentas para visualização:
 
 ![Screenshot](/images/v04.jpg)
 
-- Vamos executadar uma consulta para analizarnos os valores de pagametos por periodo (ano-mês)
+- Vamos executadar uma consulta para analizarnos os valores de pagametos por período (ano-mês)
 
 ![Screenshot](/images/b09.jpg)
 
@@ -96,7 +96,7 @@ Podemos usar várias ferramentas para visualização:
 
 ![Screenshot](/images/b15.jpg)
 
-- Vamos classificar pelo periodo
+- Vamos classificar pelo período
 
 ![Screenshot](/images/b16.jpg)
 
